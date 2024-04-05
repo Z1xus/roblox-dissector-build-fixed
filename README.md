@@ -1,6 +1,6 @@
 # Sala
 ## The Essential Roblox Network Suite
-
+ 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Gskartwii/roblox-dissector/Go)](https://github.com/Gskartwii/roblox-dissector/actions)
 [![Documentation](https://godoc.org/github.com/Gskartwii/roblox-dissector?status.svg)](https://godoc.org/github.com/Gskartwii/roblox-dissector)
 [![Go Report](https://goreportcard.com/badge/github.com/Gskartwii/roblox-dissector)](https://goreportcard.com/report/github.com/Gskartwii/roblox-dissector)
